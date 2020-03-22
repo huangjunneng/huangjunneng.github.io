@@ -1,25 +1,24 @@
 {
-  "name": "github-page",
+  "name": "nnn-gitbook-for-githubpage",
   "version": "1.0.0",
-  "description": "官网主页编辑器",
+  "description": "my gitbook for githubpage",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server -p 8880 -o"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huangjunneng/huangjunneng.github.io.git"
+    "url": "git+https://github.com/huangjunneng/nnngitbook.git"
   },
   "keywords": [
-    "githubpage",
     "gitbook",
-    "md"
+    "githubpage",
+    "markdown"
   ],
   "author": "huangjunneng@163.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huangjunneng/huangjunneng.github.io/issues"
+    "url": "https://github.com/huangjunneng/nnngitbook/issues"
   },
-  "homepage": "https://github.com/huangjunneng/huangjunneng.github.io#readme"
+  "homepage": "https://github.com/huangjunneng/nnngitbook#readme"
 }
