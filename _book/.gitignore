@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # 构建出来的电子书放到githubpage
-# _book
+_book
